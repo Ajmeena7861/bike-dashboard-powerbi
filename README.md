@@ -1,7 +1,7 @@
-# bike-dashboard-powerbi
-# 🚴 Bike Sales Dashboard (Power BI Project)
+# bike-dashboard-Excel
+# 🚴 Bike Sales Dashboard (Excel Project)
 
-This project presents a **Bike Sales Dashboard** built using Microsoft Power BI. It visualizes and analyzes bike sales data to uncover key insights into customer demographics, regional trends, and sales performance.
+This project presents a **Bike Sales Dashboard** built using Microsoft Excel. It visualizes and analyzes bike sales data to uncover key insights into customer demographics, regional trends, and sales performance.
 
 ## 📊 Project Description
 
@@ -27,8 +27,8 @@ The **Bike Sales Dashboard** is a business intelligence report designed to help 
 
 | Tool           | Purpose                         |
 |----------------|----------------------------------|
-| Microsoft Power BI | Data visualization and dashboard creation |
-| Microsoft Excel    | Data storage and preprocessing |
+
+| Microsoft Excel    | Data storage and preprocessing  Data visualization and dashboard creation |
 
 ---
 
